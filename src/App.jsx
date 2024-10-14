@@ -1,5 +1,5 @@
 import Nav from './components/Nav'
-import {Outlet} from 'react-dom/client'
+import {Outlet} from 'react-router-dom'
 
 function App() {
 
